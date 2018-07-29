@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moviestore>
+    <location>/mnt/FILMS/FILMS/</location>
+    <!--
+    <location>/home/pi/</location>
+    -->
+    <player>omxplayer</player>
+    <movielist>
+	    <movie>
+	        <file>CARS/Cars.mp4</file>
+			<image>CARS/cars1.jpg</image>
+	        <title>Cars I</title>
+	        <duration>01:51</duration>
+	        <style>Animation</style>
+	        <author>Pixar</author>
+	        <date>2006</date>
+	        <actors>
+	            <actor>Flash McQueen</actor>
+	            <actor>Martin</actor>
+	            <actor>Guido</actor>
+	            <actor>Luigi</actor>
+	        </actors>
+	        <summary>Dans le monde de CARS, les voitures respirent, agissent, vivent des emotions. Parmi elles, Flash McQueen, jeune bolide arrogant promis au succes, se retrouve par hasard perdu dans une petite ville sur la celebre route 66!</summary>
+	    </movie>
+	    <movie>
+	        <file>CARS2/Cars2.mp4</file>
+			<image>CARS2/cars2.jpg</image>
+	        <title>Cars II</title>
+	        <duration>01:42</duration>
+	        <style>Animation</style>
+	        <author>Pixar</author>
+	        <date>2011</date>
+	        <actors>
+	            <actor>Flash McQueen</actor>
+	            <actor>Martin</actor>
+	            <actor>Guido</actor>
+	            <actor>Luigi</actor>
+	        </actors>
+	        <summary>Flash McQueen, la star des circuits automobiles, et son fidele compagnon Martin la depanneuse, reprennent la route pour de nouvelles aventures. Les voila partis pour courrir le tout premier Grand Prix Mondial, qui sacrera la voiture la plus rapide du monde!</summary>
+	    </movie>
+	    <movie>
+	        <file>CINQLEGENDES/CinqLegendes.m4v</file>
+			<image>CINQLEGENDES/CinqLegendes.jpg</image>
+	        <title>Cing Legendes</title>
+	        <duration>01:33</duration>
+	        <style>Animation</style>
+	        <author>Dreamworks Animation</author>
+	        <date>2012</date>
+	        <actors>
+	            <actor>Jack Frost</actor>
+	            <actor>la Fee des dents</actor>
+	            <actor>Bunny le lapin de paques</actor>
+	            <actor>Nord le pere noel</actor>
+	        </actors>
+	        <summary>Depuis le moyen age, un groupe de personnages mythiques constitue du Pere Noel, de la Fee des Dents, du Marchand de Sable et du Lapin de Paques protegent les espoirs et les reves des enfants. Mais ceux-cis sont en danger, car Pitch qui en a assez que les enfants ne croient pas en lui et n'aient pas peur de lui et de ses cauchemars, decide de s'en prendre a leurs reves pour qu'ils cessent de croire aux gardiens ...</summary>
+	    </movie>
+	    <movie>
+	        <file>GRANDPRIX/GrandPrix.mp4</file>
+			<image>GRANDPRIX/GrandPrix.jpg</image>
+	        <title>Grand Prix</title>
+	        <duration>01:28</duration>
+	        <style>Animation</style>
+	        <author>Ivo Caprino</author>
+	        <date>1975</date>
+	        <actors>
+	            <actor>Reodor Felgen</actor>
+	            <actor>Rudolf Blodstrupmoen</actor>
+	            <actor>Solan Gundersen</actor>
+	            <actor>Ludvig</actor>
+	        </actors>
+	        <summary>100 miles north, a bit east and up, is Flaklypa... home of bicyle repairman Reodor Felgen and his two assistants: Solan Gundersen, morning bird and natural born optimist, and Ludvig who is a true pessimist. Sponsored by oil sheik Ben Redic Fy Fazan, they build the car "Il Tempo Gigante" and the race of the decade is a fact.</summary>
+	    </movie>
+	    <movie>
+	        <file>GRAVITY/Gravity.mkv</file>
+			<image>GRAVITY/Gravity.jpg</image>
+	        <title>Gravity</title>
+	        <duration>01:30</duration>
+	        <style>Science fiction</style>
+	        <author>Alfonso Cuaron</author>
+	        <date>2013</date>
+	        <actors>
+	            <actor>Sandra Bullock</actor>
+	            <actor>George Clooney</actor>
+	            <actor>Ed Harris</actor>
+	        </actors>
+	        <summary>Pour sa premiere expedition a bord d'une navette spatiale, le docteur Ryan Stone, brillante experte en ingenierie medicale, accompagne l'astronaute chevronne Matt Kowalsky. Mais alors qu'il s'agit apparemment d'une banale sortie dans l'espace, une catastrophe se produit. Lorsque la navette est pulverisee, Stone et Kowalsky se retrouvent totalement seuls, livres a eux-memes dans l'univers. Le silence assourdissant autour d'eux leur indique qu'ils ont perdu tout contact avec la Terre et la moindre chance d'etre sauves. Peu a peu, ils cedent a la panique, d'autant plus qu'a chaque respiration, ils consomment un peu plus les quelques reserves d'oxygene qu'il leur reste. Mais c'est peut-etre en s'enfoncant plus loin encore dans l'immensite terrifiante de l'espace qu'ils trouveront le moyen de rentrer sur Terre...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume1_ep_1_2_3_4.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 1,2,3,4</title>
+	        <duration>01:29</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume2_ep_4_5_6_7_8.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 4,5,6,7,8</title>
+	        <duration>01:22</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume3_ep_09_10_11.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 9,10,11</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume4_ep_12_13_14.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 12,13,14</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume5_ep_15_16_17.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 15,16,17</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume6_ep_18_19_20.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 18,19,20</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume7_ep_21_22_23.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 21,22,23</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>Evangelion/Evangelion_Volume8_ep_24_25_26.ts</file>
+			<image>Evangelion/Evangelion.jpg</image>
+	        <title>Evangelion 24,25,26</title>
+	        <duration>01:10</duration>
+	        <style>Animation</style>
+	        <author>Hideaki Anno</author>
+	        <date>1995</date>
+	        <actors>
+	            <actor>Shinji Ikari</actor>
+	            <actor>Rei Ayanami</actor>
+	            <actor>Asuka Langley Soryu</actor>
+	            <actor>Kaworu Nagisa</actor>
+	        </actors>
+	        <summary>En l'an 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marees, fonte des calottes polaires) qui devaste une grande partie de la planete. Les autorites declarent que cette catastrophe est due a la chute d'un asteroide. Quinze ans plus tard, l'humanite a surmonte cet evenement, appele le Second Impact. Mais de mysterieuses creatures nommees Anges font leur apparition, et tentent de detruire Tokyo-3, la nouvelle capitale-forteresse du Japon, construite apres le Second Impact. Pour les combattre, l'organisation secrete NERV a mis au point une arme ultime, l'Evangelion ou Eva, geant anthropoide pilote comme une simple mecanique, mais en realite creature bien mysterieuse. Shinji Ikari, quatorze ans, se rend a Tokyo-3 sur invitation de son pere, qu'il n'a pas revu depuis 10 ans. Il est loin de se douter qu'il sera implique dans un conflit qui pourrait bien signifier la fin de l'humanite quoi qu'il arrive...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_01.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 1</title>
+	        <duration>00:26</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_02.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 2</title>
+	        <duration>00:25</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_03.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 3</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_04.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 4</title>
+	        <duration>00:25</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_05.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 5</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_06.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 6</title>
+	        <duration>00:22</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_07.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 7</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_08.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 8</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_09.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 9</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_10.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 10</title>
+	        <duration>00:23</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_11.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 11</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_12.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 12</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_13.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 13</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_14.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 14</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_15.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 15</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_16.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 16</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_17.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 17</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_18.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 18</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_19.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 19</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_20.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 20</title>
+	        <duration>00:24</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_21.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 21</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_22.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 22</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_23.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 23</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_24.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 24</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_25.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 25</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_26_30.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 26 a 30</title>
+	        <duration>02:00</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_31_35".avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 31 a 35</title>
+	        <duration>01:48</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_32.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 32</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_33.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 33</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_34.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 34</title>
+	        <duration>00:27</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+	    <movie>
+	        <file>CITESDOR/Episode_36_39.avi</file>
+			<image>CITESDOR/citesdor.jpg</image>
+	        <title>Les cites d'or 36 a 39</title>
+	        <duration>01:39</duration>
+	        <style>Animation</style>
+	        <author>Mitsuru Kaneko</author>
+	        <date>1982</date>
+	        <actors>
+	            <actor>Esteban</actor>
+	            <actor>Zia</actor>
+	            <actor>Tao</actor>
+	            <actor>Mendoza</actor>
+	            <actor>Sancho</actor>
+	            <actor>Pedro</actor>
+	            <actor>Alvarez</actor>
+	        </actors>
+	        <summary>Barcelone 1532, Esteban, un orphelin d'une douzaine d'annees qui semble capable d'appeler le Soleil, accepte l'offre de Mendoza, un mysterieux marin, et part vers le Nouveau Monde afin de decouvrir les legendaires Cites d'or. Il espere y retrouver son pere, disparu lors d'un naufrage dix ans auparavant. Au cours de ce voyage, le jeune garcon se lie d'amitie avec Zia, une jeune Inca, et Tao, dernier descendant du peuple de Mu, habitant des iles Galapagos. Esteban et Zia decouvrent qu'ils possedent chacun un pendentif, les medaillons du Soleil, censes etre les cles de ces Mysterieuses Cites d'or. Ils doivent egalement retrouver leur pere respectif, dont les destins sont lies aux Cites d'or...</summary>
+	    </movie>
+<!-- For tests
+	    <movie>
+	        <file>vid_bigbuckbunny.mp4</file>
+		<image>cars1.jpg</image>
+	        <title>L'arme fatale I</title>
+	        <duration>02:10</duration>
+	        <style>Thriller</style>
+	        <author>Buck bunny</author>
+	        <date>2001</date>
+	        <actors>
+	            <actor>Danny Glover</actor>
+	            <actor>Mel Gibson</actor>
+	        </actors>
+	        <summary>Once upon a time, in L.A., ...</summary>
+	    </movie>
+-->
+	</movielist>
+</moviestore>

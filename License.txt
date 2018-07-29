@@ -1,0 +1,11 @@
+Thank you for purchasing codec license keys from the Raspberry Pi Store.To enable codecs on your device(s), add the following lines to the config.txt file in the FAT partition of your SD card:
+
+decode_MPG2=0x7a3006e
+
+If you want to verify that the codecs are now enabled, the following commands will report their status:
+
+vcgencmd codec_enabled MPG2
+vcgencmd codec_enabled WVC1
+
+Regards
+The Raspberry Pi Foundation 
